@@ -1,0 +1,6 @@
+Base path: '/Users/vkurama7u7v/Desktop/VSC/IEST GAMES/2020.3.24f1/Unity.app/Contents', plugins path '/Users/vkurama7u7v/Desktop/VSC/IEST GAMES/2020.3.24f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+
+Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
+
+Quitting shader compiler process
